@@ -1,7 +1,7 @@
 {
   "sections": [
     {
-      "judul": "SERVER MANAGEMENT",
+      "judul": "SERVER MANAGEMENT",s
       "data": [
         { "judul": "Grafana", "link": "http://tvriaceh.server:3000" },
         { "judul": "Prometheus", "link": "http://tvriaceh.server:9090" },
