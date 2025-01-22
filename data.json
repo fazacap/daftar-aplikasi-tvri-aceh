@@ -4,15 +4,31 @@
     {
       "judul": "SERVER MANAGEMENT",
       "data": [
-        { "judul": "Grafana", "link": "http://tvriaceh.server:3000" },
-        { "judul": "Prometheus", "link": "http://tvriaceh.server:9090" },
-        { "judul": "SNMP Expoter", "link": "http://tvriaceh.server:9116" }
+        {
+          "judul": "Grafana",
+          "link": "http://tvriaceh.server:3000",
+          "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
+        },
+        {
+          "judul": "Prometheus",
+          "link": "http://tvriaceh.server:9090",
+          "deskripsi": "Belum Tersedia"
+        },
+        {
+          "judul": "SNMP Expoter",
+          "link": "http://tvriaceh.server:9116",
+          "deskripsi": "Belum Tersedia"
+        }
       ]
     },
     {
       "judul": "ADMINISTRASI",
       "data": [
-        { "judul": "Jadwal Bidang Teknik", "link": "http://tvriaceh.server:6110" }
+        {
+          "judul": "Jadwal Bidang Teknik",
+          "link": "http://tvriaceh.server:6110",
+          "deskripsi": "Aplikasi Jadwal Dinas Untuk Bidang Teknik"
+        }
       ]
     }
   ],
