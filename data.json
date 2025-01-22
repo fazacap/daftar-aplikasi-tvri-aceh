@@ -1,8 +1,20 @@
 {
-  "sistem": [
-    { "judul": "Grafana", "link": "http://tvriaceh.server:3000" },
-    { "judul": "Prometheus", "link": "http://tvriaceh.server:9090" },
-    { "judul": "SNPT", "link": "http://tvriaceh.server:9116" }
-  ],
-  "administrasi": [{ "judul": "Jadwal Bidang Teknik", "link": "http://tvriaceh.server:6110" }]
+  "sections": [
+    {
+      "judul": "SERVER MANAGEMENT",
+      "data": {
+        "sistem": [
+          { "judul": "Grafana", "link": "http://tvriaceh.server:3000" },
+          { "judul": "Prometheus", "link": "http://tvriaceh.server:9090" },
+          { "judul": "SNPT", "link": "http://tvriaceh.server:9116" }
+        ]
+      }
+    },
+    {
+      "judul": "ADMINISTRASI",
+      "data": {
+        "administrasi": [{ "judul": "Jadwal Bidang Teknik", "link": "http://tvriaceh.server:6110" }]
+      }
+    }
+  ]
 }
