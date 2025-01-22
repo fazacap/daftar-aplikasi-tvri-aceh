@@ -1,0 +1,4 @@
+{
+  "sistem": ["Grafana", "Prometheus", "SNPT"],
+  "administrasi": ["Jadwal Dinas Web"]
+}
