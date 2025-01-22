@@ -11,7 +11,9 @@
     },
     {
       "judul": "ADMINISTRASI",
-      "data": [{ "judul": "Jadwal Bidang Teknik", "link": "http://tvriaceh.server:6110" }]
+      "data": [
+        { "judul": "Jadwal Bidang Teknik", "link": "http://tvriaceh.server:6110" }
+      ]
     }
   ],
   "trademark": "Copyright @ IT 2025"
