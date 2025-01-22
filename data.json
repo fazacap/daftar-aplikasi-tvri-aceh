@@ -5,7 +5,7 @@
       "data": [
         { "judul": "Grafana", "link": "http://tvriaceh.server:3000" },
         { "judul": "Prometheus", "link": "http://tvriaceh.server:9090" },
-        { "judul": "SNPT", "link": "http://tvriaceh.server:9116" }
+        { "judul": "SNMP Expoter", "link": "http://tvriaceh.server:9116" }
       ]
     },
     {
