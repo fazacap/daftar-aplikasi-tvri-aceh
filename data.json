@@ -31,8 +31,7 @@
         }
       ]
     },
-    
-  ],    {
+   {
       "judul": "TESS",
       "data": [
         {
@@ -41,6 +40,7 @@
           "deskripsi": "Aplikasi Jadwal Dinas Untuk Bidang Teknik"
         }
       ]
-    }
+    } 
+  ],    
   "trademark": "Copyright @ IT 2025"
 }
