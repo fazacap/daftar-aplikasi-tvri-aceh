@@ -15,7 +15,7 @@
           "deskripsi": "Belum Tersedia"
         },
         {
-          "judul": "SNMP Expoter",
+          "judul": "SNMP Exporter",
           "link": "http://tvriaceh.server:9116",
           "deskripsi": "Belum Tersedia"
         }
@@ -31,16 +31,16 @@
         }
       ]
     },
-   {
+    {
       "judul": "TESS",
       "data": [
         {
           "judul": "TESS",
-          "link":"TES",
+          "link": "http://tvriaceh.server/test",
           "deskripsi": "Aplikasi Jadwal Dinas Untuk Bidang Teknik"
         }
       ]
-    } 
-  ],    
+    }
+  ],
   "trademark": "Copyright @ IT 2025"
 }
