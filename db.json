@@ -8,16 +8,19 @@
       "data": [
         {
           "aplikasi": "Operator",
+          "warna": "blue-3",
           "link": "http://tvriaceh.server:3000",
           "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
         },
         {
           "aplikasi": "Admin",
+          "warna": "blue-6",
           "link": "http://tvriaceh.server:9090",
           "deskripsi": "Belum Tersedia"
         },
         {
           "aplikasi": "Server",
+          "warna": "blue-9",
           "link": "http://tvriaceh.server:9116",
           "deskripsi": "Belum Tersedia"
         }
@@ -32,16 +35,19 @@
       "data": [
         {
           "aplikasi": "Grafana",
+          "warna": "orange",
           "link": "http://tvriaceh.server:3000",
           "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
         },
         {
           "aplikasi": "Prometheus",
+          "warna": "green",
           "link": "http://tvriaceh.server:9090",
           "deskripsi": "Belum Tersedia"
         },
         {
           "aplikasi": "SNMP Exporter",
+          "warna": "blue",
           "link": "http://tvriaceh.server:9116",
           "deskripsi": "Belum Tersedia"
         }
