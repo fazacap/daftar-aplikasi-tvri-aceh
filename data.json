@@ -1,8 +1,8 @@
 {
-  "aplikasi": "DAFTAR APLIKASI TVRI ACEH",
+  "aplikasi": "DAFTAR APLIKASI SERVER MANAGEMENT",
   "sections": [
     {
-      "judul": "SERVER MANAGEMENT",
+      "judul": "MONITORING PERANGKAT",
       "data": [
         {
           "judul": "Grafana",
@@ -20,17 +20,8 @@
           "deskripsi": "Belum Tersedia"
         }
       ]
-    },
-    {
-      "judul": "ADMINISTRASI",
-      "data": [
-        {
-          "judul": "Jadwal Dinas",
-          "link": "http://tvriaceh.server:6110",
-          "deskripsi": "Aplikasi Jadwal Dinas Untuk Bidang Teknik"
-        }
-      ]
     }
+   
   ],
   "trademark": "Copyright @ IT 2025"
 }
