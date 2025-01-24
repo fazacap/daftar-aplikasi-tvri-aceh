@@ -4,7 +4,7 @@
       "aplikasi": "jadwal",
       "icon": "event_available",
       "warna": "green",
-      "judul": "DAFTAR APLIKASI JADWAL",
+      "judul": "JADWAL",
       "data": [
         {
           "aplikasi": "Operator",
@@ -31,7 +31,7 @@
       "aplikasi": "sistem",
       "icon": "settings",
       "warna": "negative",
-      "judul": "DAFTAR APLIKASI SERVER MANAGEMENT",
+      "judul": "SERVER MANAGEMENT",
       "password": "VHZyaWFjZWgyMDI1",
       "data": [
         {
