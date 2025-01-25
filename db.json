@@ -74,5 +74,11 @@
       ]
     }
   ],
-  "trademark": "Copyright @ IT 2025"
+  "trademark": [
+    {
+      "build": "Copyright @ IT 2025",
+      "author": "FAZ",
+      "version": "1.0"
+    }
+  ]
 }
