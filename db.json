@@ -47,6 +47,26 @@
       ]
     },
     {
+      "aplikasi": "kinerja",
+      "icon": "assignment_ind",
+      "warna": "orange-8",
+      "judul": "KINERJA PEGAWAI",
+      "data": [
+        {
+          "aplikasi": "SIMPEG",
+          "warna": "indigo-10",
+          "link": "https://simpeg.tvri.go.id/login",
+          "deskripsi": "Layanan Kerja TVRI"
+        },
+        {
+          "aplikasi": "E-KINERJA",
+          "warna": "orange-7",
+          "link": "https://kinerja.bkn.go.id/skp",
+          "deskripsi": "E-Kinerja Badan Kepegawaian"
+        }
+      ]
+    },
+    {
       "aplikasi": "sistem",
       "icon": "settings",
       "warna": "dark",
