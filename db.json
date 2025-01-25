@@ -3,12 +3,12 @@
     {
       "aplikasi": "jadwal",
       "icon": "event_available",
-      "warna": "primary",
+      "warna": "lime",
       "judul": "JADWAL TVRI",
       "data": [
         {
           "aplikasi": "Jadwal Teknik",
-          "warna": "blue-3",
+          "warna": "primary",
           "link": "http://tvriaceh.server:6010",
           "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
         }
