@@ -3,7 +3,7 @@
     {
       "aplikasi": "jadwal",
       "icon": "event_available",
-      "warna": "green",
+      "warna": "primary",
       "judul": "JADWAL DINAS",
       "data": [
         {
@@ -28,9 +28,42 @@
       "trademark": "Copyright @ IT 2025"
     },
     {
+      "aplikasi": "media",
+      "icon": "subscriptions",
+      "warna": "negative",
+      "judul": "MEDIA SOSIAL",
+      "data": [
+        {
+          "aplikasi": "Video Youtube",
+          "warna": "red",
+          "link": "https://www.youtube.com/@tvriacehofficial",
+          "deskripsi": "Youtube Video TVRI Aceh"
+        },
+        {
+          "aplikasi": "LiveStream Youtube",
+          "warna": "red-3",
+          "link": "https://www.youtube.com/@tvriacehlivestreaming",
+          "deskripsi": "Youtube Livestream TVRI Aceh"
+        },
+        {
+          "aplikasi": "Instagram ",
+          "warna": "purple-7",
+          "link": "https://www.youtube.com/@tvriacehlivestreaming",
+          "deskripsi": "Instagram TVRI Aceh"
+        },
+        {
+          "aplikasi": "TVRI Klik",
+          "warna": "primary",
+          "link": "https://klik.tvri.go.id/detailchannel/TVRI_CH_18",
+          "deskripsi": "Live Siaran TVRI Klik"
+        }
+      ],
+      "trademark": "Copyright @ IT 2025"
+    },
+    {
       "aplikasi": "sistem",
       "icon": "settings",
-      "warna": "negative",
+      "warna": "dark",
       "judul": "SERVER MANAGEMENT",
       "password": "VHZyaWFjZWgyMDI1",
       "data": [
