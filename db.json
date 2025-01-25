@@ -10,7 +10,7 @@
           "aplikasi": "Jadwal Teknik",
           "warna": "primary",
           "link": "http://tvriaceh.server:6010",
-          "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
+          "deskripsi": "Jadwal Dinas Bidang Teknik"
         }
       ]
     },
@@ -24,19 +24,19 @@
           "aplikasi": "Video Youtube",
           "warna": "red",
           "link": "https://www.youtube.com/@tvriacehofficial",
-          "deskripsi": "Youtube Video TVRI Aceh"
+          "deskripsi": "Akun Youtube Video TVRI Aceh"
         },
         {
           "aplikasi": "LiveStream",
           "warna": "red-3",
           "link": "https://www.youtube.com/@tvriacehlivestreaming",
-          "deskripsi": "Youtube Livestream TVRI Aceh"
+          "deskripsi": "Akun Youtube Livestream TVRI Aceh"
         },
         {
-          "aplikasi": "Instagram ",
+          "aplikasi": "Instagram  ",
           "warna": "purple-7",
           "link": "https://www.instagram.com/tvriacehofficial",
-          "deskripsi": "Instagram TVRI Aceh"
+          "deskripsi": "Akun Instagram TVRI Aceh"
         },
         {
           "aplikasi": "TVRI Klik",
@@ -56,13 +56,13 @@
           "aplikasi": "SIMPEG",
           "warna": "indigo-10",
           "link": "https://simpeg.tvri.go.id/login",
-          "deskripsi": "Layanan Kerja TVRI"
+          "deskripsi": "Layanan Absensi Kerja TVRI"
         },
         {
           "aplikasi": "E-KINERJA",
           "warna": "orange-7",
           "link": "https://kinerja.bkn.go.id/skp",
-          "deskripsi": "E-Kinerja Badan Kepegawaian"
+          "deskripsi": "SKP E-Kinerja Badan Kepegawaian"
         }
       ]
     },
