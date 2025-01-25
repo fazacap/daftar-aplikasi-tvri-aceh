@@ -4,28 +4,15 @@
       "aplikasi": "jadwal",
       "icon": "event_available",
       "warna": "primary",
-      "judul": "JADWAL DINAS",
+      "judul": "JADWAL TVRI",
       "data": [
         {
-          "aplikasi": "Operator",
+          "aplikasi": "Jadwal Teknik",
           "warna": "blue-3",
           "link": "http://tvriaceh.server:6010",
           "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
-        },
-        {
-          "aplikasi": "Admin",
-          "warna": "blue-6",
-          "link": "http://tvriaceh.server:6011",
-          "deskripsi": "Belum Tersedia"
-        },
-        {
-          "aplikasi": "Server",
-          "warna": "blue-9",
-          "link": "http://tvriaceh.server:6012",
-          "deskripsi": "Belum Tersedia"
         }
-      ],
-      "trademark": "Copyright @ IT 2025"
+      ]
     },
     {
       "aplikasi": "media",
@@ -57,8 +44,7 @@
           "link": "https://klik.tvri.go.id/detailchannel/TVRI_CH_18",
           "deskripsi": "Live Siaran TVRI Klik"
         }
-      ],
-      "trademark": "Copyright @ IT 2025"
+      ]
     },
     {
       "aplikasi": "sistem",
@@ -85,8 +71,8 @@
           "link": "http://tvriaceh.server:9116",
           "deskripsi": "Belum Tersedia"
         }
-      ],
-      "trademark": "Copyright @ IT 2025"
+      ]
     }
-  ]
+  ],
+  "trademark": "Copyright @ IT 2025"
 }
