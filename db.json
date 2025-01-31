@@ -7,9 +7,15 @@
       "judul": "JADWAL TVRI",
       "data": [
         {
-          "aplikasi": "Jadwal Teknik",
+          "aplikasi": "Web Jadwal Dinas",
           "warna": "primary",
-          "link": "http://tvriaceh.server:6010",
+          "link": "http://web.jadwal.tvriaceh.my.id",
+          "deskripsi": "Jadwal Dinas Bidang Teknik"
+        },
+        {
+          "aplikasi": "Mobile Jadwal Dinas",
+          "warna": "teal",
+          "link": "http://mobile.jadwal.tvriaceh.my.id",
           "deskripsi": "Jadwal Dinas Bidang Teknik"
         }
       ]
@@ -76,7 +82,7 @@
         {
           "aplikasi": "Grafana",
           "warna": "orange",
-          "link": "http://tvriaceh.server:3000",
+          "link": "http://server.tvriaceh.my.id",
           "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
         },
         {
