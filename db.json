@@ -1,21 +1,35 @@
 {
   "server": [
     {
-      "aplikasi": "jadwal",
-      "icon": "event_available",
+      "aplikasi": "teknik",
+      "icon": "display_settings",
       "warna": "green-9",
-      "judul": "JADWAL TVRI",
+      "judul": "APLIKASI BIDANG TEKNIK",
       "data": [
         {
           "aplikasi": "Web Jadwal Dinas",
           "warna": "primary",
-          "link": "http://web.jadwal.tvriaceh.my.id",
+          "link": "http://web.jadwal.teknik.tvriaceh.my.id",
           "deskripsi": "Jadwal Dinas Bidang Teknik"
         },
         {
           "aplikasi": "Mobile Jadwal Dinas",
           "warna": "teal",
-          "link": "http://mobile.jadwal.tvriaceh.my.id",
+          "link": "http://mobile.jadwal.teknik.tvriaceh.my.id",
+          "deskripsi": "Jadwal Dinas Bidang Teknik"
+        }
+      ]
+    },
+    {
+      "aplikasi": "berita",
+      "icon": "article",
+      "warna": "blue",
+      "judul": "APLIKASI BIDANG BERITA",
+      "data": [
+        {
+          "aplikasi": "Redaksi Berita",
+          "warna": "primary",
+          "link": "http://redaksi.berita.tvriaceh.my.id",
           "deskripsi": "Jadwal Dinas Bidang Teknik"
         }
       ]
