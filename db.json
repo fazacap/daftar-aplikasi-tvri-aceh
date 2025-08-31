@@ -107,23 +107,17 @@
       "judul": "SERVER MANAGEMENT",
       "password": "VHZyaWFjZWgyMDI1",
       "data": [
+          {
+          "aplikasi": "Server Management",
+          "warna": "orange",
+          "link": "http://server.tvriaceh.my.id",
+          "deskripsi": "Aplikasi Management Server"
+        },
         {
           "aplikasi": "Grafana",
           "warna": "orange",
-          "link": "http://server.tvriaceh.my.id",
+          "link": "http://grafana.tvriaceh.my.id",
           "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
-        },
-        {
-          "aplikasi": "Prometheus",
-          "warna": "green",
-          "link": "http://tvriaceh.server:9090",
-          "deskripsi": "Belum Tersedia"
-        },
-        {
-          "aplikasi": "SNMP Exporter",
-          "warna": "blue",
-          "link": "http://tvriaceh.server:9116",
-          "deskripsi": "Belum Tersedia"
         }
       ]
     }
@@ -136,4 +130,5 @@
     }
   ]
 }
+
 
