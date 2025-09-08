@@ -9,13 +9,13 @@
         {
           "aplikasi": "Website Jadwal Dinas",
           "warna": "primary",
-          "link": "http://website.jadwal.tvriaceh.my.id",
+          "link": "https://website.jadwal.tvriaceh.my.id",
           "deskripsi": "Jadwal Dinas Bidang Teknik"
         },
         {
           "aplikasi": "Mobile Jadwal Dinas",
           "warna": "teal",
-          "link": "http://mobile.jadwal.tvriaceh.my.id",
+          "link": "https://mobile.jadwal.tvriaceh.my.id",
           "deskripsi": "Jadwal Dinas Bidang Teknik"
         }
       ]
@@ -29,13 +29,13 @@
         {
           "aplikasi": "Inventaris Barang",
           "warna": "teal",
-          "link": "http://inventaris.teknik.tvriaceh.my.id",
+          "link": "https://inventaris.teknik.tvriaceh.my.id",
           "deskripsi": "Inventaris Barang Bidang Teknik"
         },
         {
           "aplikasi": "Transmisi Report",
           "warna": "orange",
-          "link": "http://transmisi.teknik.tvriaceh.my.id",
+          "link": "https://transmisi.teknik.tvriaceh.my.id",
           "deskripsi": "Transmisi Report Bidang Teknik"
         }
       ]
@@ -49,10 +49,17 @@
         {
           "aplikasi": "Redaksi Berita",
           "warna": "primary",
-          "link": "http://redaksi.berita.tvriaceh.my.id",
+          "link": "https://redaksi.berita.tvriaceh.my.id",
           "deskripsi": "Jadwal Dinas Bidang Teknik"
         }
       ]
+    },
+    {
+      "aplikasi": "program",
+      "icon": "video_camera_back",
+      "warna": "yellow",
+      "judul": "APLIKASI BIDANG PROGRAM",
+      "data": []
     },
     {
       "aplikasi": "media",
@@ -116,13 +123,13 @@
         {
           "aplikasi": "Server Management",
           "warna": "orange",
-          "link": "http://server.tvriaceh.my.id",
+          "link": "https://server.tvriaceh.my.id",
           "deskripsi": "Aplikasi Management Server"
         },
         {
           "aplikasi": "Grafana",
           "warna": "orange",
-          "link": "http://grafana.tvriaceh.my.id",
+          "link": "https://grafana.tvriaceh.my.id",
           "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
         }
       ]
