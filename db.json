@@ -57,7 +57,7 @@
     {
       "aplikasi": "program",
       "icon": "video_camera_back",
-      "warna": "yellow",
+      "warna": "yellow-4",
       "judul": "APLIKASI BIDANG PROGRAM",
       "data": []
     },
@@ -143,3 +143,4 @@
     }
   ]
 }
+
