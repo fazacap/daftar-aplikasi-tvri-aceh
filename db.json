@@ -27,10 +27,16 @@
       "judul": "APLIKASI BIDANG TEKNIK",
       "data": [
         {
-          "aplikasi": "Inventaris Barang Teknik",
+          "aplikasi": "Inventaris Barang",
           "warna": "teal",
           "link": "http://inventaris.teknik.tvriaceh.my.id",
           "deskripsi": "Inventaris Barang Bidang Teknik"
+        },
+        {
+          "aplikasi": "Transmisi Report",
+          "warna": "orange",
+          "link": "http://transmisi.teknik.tvriaceh.my.id",
+          "deskripsi": "Transmisi Report Bidang Teknik"
         }
       ]
     },
@@ -107,7 +113,7 @@
       "judul": "SERVER MANAGEMENT",
       "password": "VHZyaWFjZWgyMDI1",
       "data": [
-          {
+        {
           "aplikasi": "Server Management",
           "warna": "orange",
           "link": "http://server.tvriaceh.my.id",
@@ -130,5 +136,3 @@
     }
   ]
 }
-
-
