@@ -2,7 +2,7 @@
   "server": [
     {
       "aplikasi": "latsar",
-      "icon": "add_notes",
+      "icon": "document_search",
       "warna": "purple-7",
       "judul": "APLIKASI REPOSITORI LATSAR",
       "data": [
@@ -56,7 +56,7 @@
     },
     {
       "aplikasi": "berita",
-      "icon": "clarify",
+      "icon": "docs",
       "warna": "blue",
       "judul": "APLIKASI BIDANG BERITA",
       "data": [
@@ -157,6 +157,7 @@
     }
   ]
 }
+
 
 
 
