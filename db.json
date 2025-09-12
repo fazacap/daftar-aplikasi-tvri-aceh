@@ -1,6 +1,20 @@
 {
   "server": [
     {
+      "aplikasi": "latsar",
+      "icon": "article_person",
+      "warna": "purple-7",
+      "judul": "APLIKASI REPOSITORI LATSAR",
+      "data": [
+        {
+          "aplikasi": "Repositori Latsar",
+          "warna": "teal",
+          "link": "https://latsar.tvriaceh.my.id",
+          "deskripsi": "Repositori Latsar CPNS"
+        }
+      ]
+    },
+    {
       "aplikasi": "jadwal",
       "icon": "calendar_month",
       "warna": "primary",
@@ -33,10 +47,10 @@
           "deskripsi": "Inventaris Barang Bidang Teknik"
         },
         {
-          "aplikasi": "Transmisi Report",
+          "aplikasi": "Transmisi",
           "warna": "orange",
           "link": "https://transmisi.teknik.tvriaceh.my.id",
-          "deskripsi": "Transmisi Report Bidang Teknik"
+          "deskripsi": "Transmisi Bidang Teknik"
         }
       ]
     },
@@ -143,5 +157,6 @@
     }
   ]
 }
+
 
 
