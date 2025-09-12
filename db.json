@@ -2,7 +2,7 @@
   "server": [
     {
       "aplikasi": "latsar",
-      "icon": "article",
+      "icon": "assignment",
       "warna": "purple-7",
       "judul": "APLIKASI REPOSITORI LATSAR",
       "data": [
@@ -157,6 +157,7 @@
     }
   ]
 }
+
 
 
 
