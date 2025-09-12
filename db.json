@@ -71,7 +71,7 @@
     {
       "aplikasi": "program",
       "icon": "video_camera_back",
-      "warna": "yellow-7",
+      "warna": "orange-8",
       "judul": "APLIKASI BIDANG PROGRAM",
       "data": []
     },
@@ -108,26 +108,6 @@
       ]
     },
     {
-      "aplikasi": "kinerja",
-      "icon": "assignment_ind",
-      "warna": "orange-8",
-      "judul": "KINERJA PEGAWAI",
-      "data": [
-        {
-          "aplikasi": "SIMPEG",
-          "warna": "indigo-10",
-          "link": "https://simpeg.tvri.go.id/login",
-          "deskripsi": "Layanan Absensi Kerja TVRI"
-        },
-        {
-          "aplikasi": "E-KINERJA",
-          "warna": "orange-7",
-          "link": "https://kinerja.bkn.go.id/skp",
-          "deskripsi": "SKP E-Kinerja Badan Kepegawaian"
-        }
-      ]
-    },
-    {
       "aplikasi": "sistem",
       "icon": "settings",
       "warna": "dark",
@@ -136,7 +116,7 @@
       "data": [
         {
           "aplikasi": "Server Management",
-          "warna": "orange",
+          "warna": "blue-7",
           "link": "https://server.tvriaceh.my.id",
           "deskripsi": "Aplikasi Management Server"
         },
@@ -157,6 +137,7 @@
     }
   ]
 }
+
 
 
 
