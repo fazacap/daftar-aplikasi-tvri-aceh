@@ -3,7 +3,7 @@
     {
       "aplikasi": "latsar",
       "icon": "assignment",
-      "warna": "purple-7",
+      "warna": "teal`",
       "judul": "APLIKASI REPOSITORI LATSAR",
       "data": [
         {
@@ -31,6 +31,26 @@
           "warna": "teal",
           "link": "https://mobile.jadwal.tvriaceh.my.id",
           "deskripsi": "Jadwal Dinas Bidang Teknik"
+        }
+      ]
+    },
+    {
+      "aplikasi": "sdm",
+      "icon": "person_pin",
+      "warna": "purple-7",
+      "judul": "APLIKASI BIDANG TEKNIK",
+      "data": [
+        {
+          "aplikasi": "Cuti Pegawai",
+          "warna": "teal",
+          "link": "https://docs.google.com/forms/d/e/1FAIpQLScXENBoO-FmMAlYaWZoJHnC1sjiUXkrU32L-RW_T5P9jFwy7w/viewform",
+          "deskripsi": "Form Pengajuan Cuti Pegawai"
+        },
+        {
+          "aplikasi": "Reset Akun E-layanan",
+          "warna": "orange",
+          "link": "https://sdmtvri.github.io/",
+          "deskripsi": "Form Pengajuan Reset Akun E-layanan"
         }
       ]
     },
@@ -137,6 +157,7 @@
     }
   ]
 }
+
 
 
 
