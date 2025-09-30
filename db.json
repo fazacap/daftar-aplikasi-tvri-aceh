@@ -13,7 +13,7 @@
           "deskripsi": "Form Pengajuan Cuti Pegawai"
         },
         {
-          "aplikasi": "Reset Akun E-layanan",
+          "aplikasi": "Reset Akun",
           "warna": "orange",
           "link": "https://sdmtvri.github.io/",
           "deskripsi": "Form Pengajuan Reset Akun E-layanan"
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "aplikasi": "program",
+      "aplikasi": "progrm",
       "icon": "video_camera_back",
       "warna": "orange-8",
       "judul": "APLIKASI BIDANG PROGRAM",
@@ -157,6 +157,7 @@
     }
   ]
 }
+
 
 
 
