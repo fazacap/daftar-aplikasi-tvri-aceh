@@ -1,40 +1,6 @@
 {
   "server": [
     {
-      "aplikasi": "latsar",
-      "icon": "assignment",
-      "warna": "teal",
-      "judul": "APLIKASI REPOSITORI LATSAR",
-      "data": [
-        {
-          "aplikasi": "Repositori Latsar",
-          "warna": "teal",
-          "link": "https://latsar.tvriaceh.my.id",
-          "deskripsi": "Repositori Latsar CPNS"
-        }
-      ]
-    },
-    {
-      "aplikasi": "jadwal",
-      "icon": "calendar_month",
-      "warna": "primary",
-      "judul": "APLIKASI JADWAL DINAS",
-      "data": [
-        {
-          "aplikasi": "Website Jadwal Dinas",
-          "warna": "primary",
-          "link": "https://website.jadwal.tvriaceh.my.id",
-          "deskripsi": "Jadwal Dinas Bidang Teknik"
-        },
-        {
-          "aplikasi": "Mobile Jadwal Dinas",
-          "warna": "teal",
-          "link": "https://mobile.jadwal.tvriaceh.my.id",
-          "deskripsi": "Jadwal Dinas Bidang Teknik"
-        }
-      ]
-    },
-    {
       "aplikasi": "sdm",
       "icon": "person_pin",
       "warna": "purple-7",
@@ -94,6 +60,40 @@
       "warna": "orange-8",
       "judul": "APLIKASI BIDANG PROGRAM",
       "data": []
+    },
+     {
+      "aplikasi": "latsar",
+      "icon": "assignment",
+      "warna": "teal",
+      "judul": "APLIKASI REPOSITORI LATSAR",
+      "data": [
+        {
+          "aplikasi": "Repositori Latsar",
+          "warna": "teal",
+          "link": "https://latsar.tvriaceh.my.id",
+          "deskripsi": "Repositori Latsar CPNS"
+        }
+      ]
+    },
+    {
+      "aplikasi": "jadwal",
+      "icon": "calendar_month",
+      "warna": "primary",
+      "judul": "APLIKASI JADWAL DINAS",
+      "data": [
+        {
+          "aplikasi": "Website Jadwal Dinas",
+          "warna": "primary",
+          "link": "https://website.jadwal.tvriaceh.my.id",
+          "deskripsi": "Jadwal Dinas Bidang Teknik"
+        },
+        {
+          "aplikasi": "Mobile Jadwal Dinas",
+          "warna": "teal",
+          "link": "https://mobile.jadwal.tvriaceh.my.id",
+          "deskripsi": "Jadwal Dinas Bidang Teknik"
+        }
+      ]
     },
     {
       "aplikasi": "media",
@@ -157,6 +157,7 @@
     }
   ]
 }
+
 
 
 
