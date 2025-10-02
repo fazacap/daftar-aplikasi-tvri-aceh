@@ -62,10 +62,10 @@
       "data": []
     },
      {
-      "aplikasi": "latsar",
+      "aplikasi": "cpns",
       "icon": "assignment",
       "warna": "teal",
-      "judul": "APLIKASI REPOSITORI LATSAR",
+      "judul": "APLIKASI CPNS TVRI",
       "data": [
         {
           "aplikasi": "Repositori Latsar",
@@ -157,6 +157,7 @@
     }
   ]
 }
+
 
 
 
