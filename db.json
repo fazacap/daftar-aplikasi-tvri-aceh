@@ -33,10 +33,10 @@
           "deskripsi": "Inventaris Barang Bidang Teknik"
         },
         {
-          "aplikasi": "Transmisi",
+          "aplikasi": "Website Transmisi",
           "warna": "orange",
           "link": "https://transmisi.teknik.tvriaceh.my.id",
-          "deskripsi": "Transmisi Bidang Teknik"
+          "deskripsi": "Website nformasi Transmisi"
         }
       ]
     },
@@ -157,6 +157,7 @@
     }
   ]
 }
+
 
 
 
