@@ -26,6 +26,12 @@
       "warna": "green-9",
       "judul": "APLIKASI BIDANG TEKNIK",
       "data": [
+         {
+          "aplikasi": "Buku Panduan",
+          "warna": "negative",
+          "link": "https://panduan.teknik.tvriaceh.my.id/",
+          "deskripsi": "Buku Panduan Bidang Teknik"
+        },
         {
           "aplikasi": "Inventaris Barang",
           "warna": "teal",
@@ -157,6 +163,7 @@
     }
   ]
 }
+
 
 
 
