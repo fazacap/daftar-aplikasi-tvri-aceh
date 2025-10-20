@@ -143,14 +143,8 @@
         {
           "aplikasi": "Server Management",
           "warna": "blue-7",
-          "link": "https://server.tvriaceh.my.id",
+          "link": "https://103.144.222.154:19137/2f517019",
           "deskripsi": "Aplikasi Management Server"
-        },
-        {
-          "aplikasi": "Grafana",
-          "warna": "orange",
-          "link": "https://grafana.tvriaceh.my.id",
-          "deskripsi": "Aplikasi Monitoring Perangkat Jaringan"
         }
       ]
     }
@@ -163,6 +157,7 @@
     }
   ]
 }
+
 
 
 
