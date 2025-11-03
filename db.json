@@ -47,7 +47,7 @@
         {
           "aplikasi": "Arsip Transmisi",
           "warna": "green",
-          "link": "https://website.transmisi.tvriaceh.my.id",
+          "link": "https://arsip.transmisi.tvriaceh.my.id",
           "deskripsi": "Digital Arsip Transmisi"
         }
       ]
@@ -163,6 +163,7 @@
     }
   ]
 }
+
 
 
 
